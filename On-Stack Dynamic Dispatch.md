@@ -1,0 +1,1 @@
+I think this is just controlling for what Rust creates and puts on the heap? Some optimisation stopping [[Monomorphization|monomorphising]] 
