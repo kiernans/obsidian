@@ -30,3 +30,7 @@ In other words, when the arrow at the end goes back to the Write Data section, w
 Fails at NOR for some reason...??? The NOR of 0000000a and 00000006 results in fffffff1, which seems to be correct for 32 bits.
 
 ![[Pasted image 20241110170347.png]]
+
+
+
+NOT ENOUGH MEMORY WAS ALLOCATED IN INSTRUCTION MEMORY CAUSING ONLY UP TO NOR INSTRUCTION TO BE LOADED INTO MEMORY AHHHHHHHHHHHHHHHHHHH (should be 0:255? or more)😭😭😭
