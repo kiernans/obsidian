@@ -3,6 +3,8 @@ We have two ways to go to a memory address: Branch or jump.
 Three types of formatting: I format, J Format and R Format.
 
 [MIPS Instruction Formats](https://www.cs.kzoo.edu/cs315/Resources/MIPS/MachineXL/InstructionFormats.html)
+
+[Branch video explanation](https://youtu.be/TQNZxIHYDHc?si=Nrxn48-84OaOGWtJ&t=1529)
 ### Branch Addressing
 Takes two registers and a target address (**I Format**) as shown:
 
